@@ -1,0 +1,16 @@
+{
+  "name": "seven",
+  "version": "1.0.0",
+  "description": "a special xml parser ",
+  "main": "index.js",
+  "author": "aspirin2d@outlook.com",
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "xml2js": "^0.4.23",
+    "yargs": "^17.6.2"
+  },
+  "bin" : {
+    "execute" : "index.js"
+  }
+}
